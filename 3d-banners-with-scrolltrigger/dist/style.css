@@ -174,7 +174,7 @@ section {
 
 .image {
   width:50%;
-  background:url(https://source.unsplash.com/IyaNci0CyRk/600x600) no-repeat;
+  background:url(https://images.unsplash.com/photo-1542344807-21226ec94b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80) no-repeat;
   background-size:cover;
   background-position:center;
   box-shadow: inset 25px 0px 20px 10px rgba(0,0,0,0.41)
@@ -231,7 +231,7 @@ section {
 
 .image2 {
   width:40%;
-  background:url(https://source.unsplash.com/gJJhG4gM7NA/600x600) no-repeat;
+  background:url(https://images.unsplash.com/photo-1502303122794-aba2d55cc873?ixlib=rb-1.2.1&auto=format&fit=crop&w=844&q=80) no-repeat;
   background-size:cover;
   background-position:center center;
   border:20px solid #E0E0E0;
